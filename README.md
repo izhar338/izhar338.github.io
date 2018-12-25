@@ -1,12 +1,12 @@
 # izhar338.github.io
 # My portfolio as a translator 
- <!DOCTYPE html>
 <html>
-<title>HTML Tutorial</title>
+<style>
+div {height:1000px;width:100%;}
+</style>
 <body>
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+<div style="background-color:#00FFFF"></div>
 
 </body>
-</html> 
+</html>
